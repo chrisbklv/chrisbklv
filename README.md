@@ -7,17 +7,3 @@
 <p>
 </p>
 
-## 👥 Connect With Me
-<p>
-</p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=chrisbklv">
-</p>
-
-## 📊 Github Status
